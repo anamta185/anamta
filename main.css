@@ -1,0 +1,35 @@
+body{
+    background-color:#87CEFA;
+	font-family: 'Comic Sans MS';
+	padding: 10px;
+}
+h1{
+    overflow: hidden;
+	color: green;
+    padding: 10px ;
+	font-family: 'Comic Sans MS';
+	text-align: center;
+	font-size: 50px;
+	font-weight: 999;
+}
+.software{
+	padding: 50px 0px;
+}
+p{
+	font-size: 20px;
+}
+h2{
+	padding:0px 20px;
+	font-weight:Bold;
+	font-size:25px;
+	font-family: 'Comic Sans MS';
+}
+#class{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:100%;
+}
+img{
+	width:300px;
+}
